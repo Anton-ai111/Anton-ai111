@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [...](...)
 
-- ⚡ Fun fact **I like U**
+- ⚡ Fun fact **I like Ryan Montgomery**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
