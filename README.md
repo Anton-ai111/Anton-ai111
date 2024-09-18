@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anton Hrlić</h1>
 <h3 align="center">A passionate frontend developer and ethical hacker from Croatia</h3>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **C# projects**
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I’m looking to collaborate on **making apps**
 
 - 🤝 I’m looking for help with **...**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [...](...)
 
-- 💬 Ask me about **...**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **...**
 
